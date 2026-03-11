@@ -15,6 +15,7 @@ Construir projetos práticos, desenvolver minhas habilidades em programação e 
 
 ## 📫 Contato
 ✉️ Email: facanha1601@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/m%C3%A1rcio-fa%C3%A7anha-714ab8203/
 
 
 
