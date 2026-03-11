@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Marcio!
 
-<!--
-**Marciofacanha/Marciofacanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Desenvolvimento de Sistemas**  
+💻 Aprendendo e praticando **Python, HTML e CSS**  
+🚀 Em preparação para entrar no **mercado de tecnologia**  
+📚 Sempre buscando evoluir e construir novos projetos  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estou estudando
+- Python
+- HTML5
+- CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Objetivo
+Construir projetos práticos, desenvolver minhas habilidades em programação e me preparar para oportunidades na área de tecnologia.
+
+## 📫 Contato
+✉️ Email: facanha1601@gmail.com
+
+
+
